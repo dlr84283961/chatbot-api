@@ -1,0 +1,13 @@
+/.idea/.gitignore
+/.idea/vcs.xml
+/.idea/chatbot-api-train.iml
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/codeStyles/Project.xml
+/*.iml
+/*/*.iml
+/.idea/libraries/
+/.idea/encodings.xml
